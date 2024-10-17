@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/9f59535b-53f8-48f8-9630-65cf1adb38e6)
 
-# ✈방방곡곡
-여행추천 플랫폼
 
 # 🌎배포주소
 https://aws.bluelegend.net
